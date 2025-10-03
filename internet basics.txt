@@ -1,0 +1,106 @@
+1. What is the Internet?
+
+The internet is a global network of interconnected computers that communicate with each other to share information. It is like the world’s biggest highways system, but instead of moving cars, it moves data (like text, videos, and files).
+
+2. How does the Internet work?
+
+The internet works by using a system of:
+-Servers _ (powerful computers that store websites, files, and apps.)
+
+-Clients (users) → your device (laptop, phone, etc.) that requests information.
+
+-Protocols → rules for communication (like HTTP, TCP/IP).
+
+When you open a website:
+
+You type an address (like google.com).
+
+Your device sends a request through your Internet Service Provider (ISP).
+
+The request finds the correct server using the Domain Name System (DNS).
+
+The server responds by sending back the webpage data.
+
+Your browser displays it.
+
+3. What is a Domain Name?
+
+A domain name is the human-friendly address of a website (e.g., amazon.com).
+Computers actually use IP addresses (like 142.250.190.78) to find each other, but since numbers are hard to remember, we use domain names instead.
+
+4. DNS and How It Works
+
+DNS (Domain Name System) is like the phonebook of the internet.
+
+When you type youtube.com, DNS translates it into the IP address of YouTube’s server.
+
+Without DNS, you’d have to type long numbers instead of names.
+
+5. Browsers and How They Work
+
+A browser (Chrome, Safari, Firefox, Edge) is a software that lets you access and view websites.
+
+It takes the HTML, CSS, and JavaScript code sent from a server.
+
+Then it renders (draws) the page so you can see text, images, videos, etc.
+
+It also handles security, cookies, caching, and extensions.
+
+6. What are Markup Languages?
+
+A markup language is a way of writing text that includes instructions about how it should be displayed.
+
+The most common is HTML (HyperText Markup Language), which is the skeleton of web pages.
+
+Example:
+
+<h1>Hello World</h1>
+<p>This is a paragraph.</p>
+
+7. What is Front-End Development?
+
+Front-end development is building the part of a website you see and interact with.
+It includes:
+
+HTML  (structure)
+CSS _styling (colors, fonts, layout)
+JavaScript _interactivity (buttons, animations, forms)
+
+If the back-end is the “engine,” the front-end is the “dashboard” and “interface.”
+
+8. What is HTTP?
+
+HTTP (HyperText Transfer Protocol) is the rule/language used for communication between your browser (client) and the server.
+
+Example: When you type a URL, your browser sends an HTTP request.
+
+The server responds with an HTTP response (like the web page).
+
+If secure, it uses HTTPS, which encrypts the data.
+
+9. What is a Browser?
+
+A browser is the software that interprets and displays web content.
+Examples: Google Chrome, Mozilla Firefox, Safari, Microsoft Edge, Opera.
+
+10. How Do Browsers Work?
+
+Browsers follow this process:
+
+You enter a URL (like twitter.com).
+
+Browser asks DNS to find the server’s IP address.
+
+Browser sends an HTTP request to that server.
+
+Server sends back HTML, CSS, JavaScript.
+
+Browser interprets and renders it into the page you see.
+
+11. How Does the Web Work?
+
+The World Wide Web (WWW) is a system of interlinked documents and resources, accessed through the internet.
+
+It works by using browsers, servers, HTTP, DNS, and markup languages.
+
+The web is just one part of the internet (other parts include email, FTP, online gaming, etc.).
