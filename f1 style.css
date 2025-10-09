@@ -1,0 +1,107 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Fascinate+Inline&family=Faster+One&family=Fredericka+the+Great&display=swap');
+body {
+    background-color: #26262f;
+    margin: 0;
+    padding: 0;
+}
+table {
+    font-family: "Fascinate Inline", system-ui;
+    font-weight: 400;
+    color: #000;
+    font-style: normal;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+    box-sizing: calc(border-box + 10px);
+}
+h1 {
+    font-family: "Faster One", system-ui;
+    font-weight: 500;
+    font-style: normal;
+    color: #f41515;
+    text-align: center;
+    margin-top: 40px;
+    text-shadow: 2px 2px 4px #010325;
+    font-size: 3rem;
+}
+thead {
+    font-family: "Bungee Shade", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #797a95;
+    text-align: center;
+    margin-top: 40px;
+    background-color: rgb(0, 0, 0);
+}
+tbody {
+    font-size: x-large;
+    width: 500rpx;
+}
+td {
+    padding: 10px;
+    height: 100px;
+    width: 200px;
+}
+
+#oscar {
+    background-color: #dc6b0e;
+}
+#lando {
+    background-color: #dc6b0e;
+}
+#george {
+    background-color: #0edc5a;
+}
+#kimi {
+    background-color: #0edc5a;
+}
+#charles {
+    background-color: #dc0e0e;
+}
+#lewis {
+    background-color: #dc0e0e;
+}
+#max {
+    background-color: #0e6edc;
+}
+#yuki {
+    background-color: #0e6edc;
+}
+#alexander {
+    background-color: #0d0085;
+}
+#carlos {
+    background-color: #0d0085;
+}
+#liam {
+    background-color: #5363b0;
+}
+#isack {
+    background-color: #5363b0;
+}
+#lance {
+    background-color: #07442e;
+}
+#fernando {
+    background-color: #07442e;
+}
+#nico {
+    background-color: #04eb3e;
+}
+#gabriel {
+    background-color: #04eb3e;
+}
+#esteban {
+    background-color: #b0b0b0;
+}
+#oliver {
+    background-color: #b0b0b0;
+}
+#pierre {
+    background-color: #c249ac;
+}
+#franco {
+    background-color: #c249ac;
+}
